@@ -1,0 +1,35 @@
+/* Importing Google Font 'Inter' with specific font weights for usage in the project */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;900&display=swap");
+
+/* Including Tailwind base styles */
+@tailwind base;
+
+/* Including Tailwind component styles */
+@tailwind components;
+
+/* Including Tailwind utility classes */
+@tailwind utilities;
+
+/* Defining a root custom property for the width of the leva component's root */
+:root {
+  --leva-sizes-rootWidth: 340px;
+}
+
+/* Setting the root element to take full width and height of the viewport */
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+/* Styling the body element with no margin and applying a dark background color with a gradient */
+body {
+  margin: 0;
+  background-color: #242424; /* Dark gray background */
+  background-image: linear-gradient(19deg, #f5f57c 0%, #0c0c0c 70%); /* Yellow to black gradient */
+}
+
+/* Applying a different background color and removing the gradient when 'greenScreen' class is added to the body */
+body.greenScreen {
+  background-color: #202020; /* Darker gray background for green screen mode */
+  background-image: none; /* No gradient in green screen mode */
+}
