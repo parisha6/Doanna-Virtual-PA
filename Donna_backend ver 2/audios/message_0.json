@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "D:\\Course Material\\DL\\Attempt3\\Project_Update 1\\Donna-Backend\\audios\\message_0.wav",
+    "duration": 1.61
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.23, "value": "B" },
+    { "start": 0.23, "end": 0.30, "value": "C" },
+    { "start": 0.30, "end": 0.37, "value": "B" },
+    { "start": 0.37, "end": 0.51, "value": "E" },
+    { "start": 0.51, "end": 0.65, "value": "F" },
+    { "start": 0.65, "end": 1.07, "value": "B" },
+    { "start": 1.07, "end": 1.15, "value": "A" },
+    { "start": 1.15, "end": 1.36, "value": "F" },
+    { "start": 1.36, "end": 1.43, "value": "B" },
+    { "start": 1.43, "end": 1.61, "value": "X" }
+  ]
+}

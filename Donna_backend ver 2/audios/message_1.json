@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "soundFile": "D:\\Course Material\\DL\\Attempt3\\Project_Update 1\\Donna-Backend\\audios\\message_1.wav",
+    "duration": 3.36
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.07, "value": "X" },
+    { "start": 0.07, "end": 0.32, "value": "B" },
+    { "start": 0.32, "end": 0.53, "value": "E" },
+    { "start": 0.53, "end": 0.60, "value": "B" },
+    { "start": 0.60, "end": 0.68, "value": "A" },
+    { "start": 0.68, "end": 0.78, "value": "C" },
+    { "start": 0.78, "end": 0.85, "value": "B" },
+    { "start": 0.85, "end": 1.13, "value": "C" },
+    { "start": 1.13, "end": 1.27, "value": "B" },
+    { "start": 1.27, "end": 1.55, "value": "F" },
+    { "start": 1.55, "end": 1.62, "value": "B" },
+    { "start": 1.62, "end": 1.69, "value": "C" },
+    { "start": 1.69, "end": 1.76, "value": "G" },
+    { "start": 1.76, "end": 1.90, "value": "C" },
+    { "start": 1.90, "end": 1.97, "value": "B" },
+    { "start": 1.97, "end": 2.04, "value": "F" },
+    { "start": 2.04, "end": 2.18, "value": "B" },
+    { "start": 2.18, "end": 2.26, "value": "A" },
+    { "start": 2.26, "end": 2.30, "value": "H" },
+    { "start": 2.30, "end": 2.34, "value": "C" },
+    { "start": 2.34, "end": 2.62, "value": "B" },
+    { "start": 2.62, "end": 2.69, "value": "C" },
+    { "start": 2.69, "end": 3.18, "value": "B" },
+    { "start": 3.18, "end": 3.36, "value": "X" }
+  ]
+}
